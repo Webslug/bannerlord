@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="English"/>
+  </tags>
+  <strings>
+    <string id="mZEVvOi4" text="I have a new assignment for you." />
+    <string id="GVM3O4PW" text="What is it?" />
+    <string id="sFk6o6pM" text="I'm sending you on a patrol." />
+    <string id="IN6LdIzh" text="Never mind." />
+    <string id="3LDRNP3W" text="Where should I patrol?" />
+    <string id="pao.option.title" text="Show me the options." />
+    <string id="pao.option.show.reply" text="Please take a look." />
+    <string id="pao.option.mark.on" text="Mark all strings used : ON" />
+    <string id="pao.option.mark.off" text="Mark all strings used : OFF" />
+    <string id="pao.option.mark.reply" text="When this option is turned on, it will mark the end of the string used in Party AI Overhaul and Commands Rebuild." />
+    <string id="pao.option.army.rejoin" text="Interval to memorize the members of the army : {ARMY_INTERVAL_DAYS} Days{PAOMARK}" />
+    <string id="pao.option.army.rejoin.reply" text="This option is the interval to memorize the members of the army. (Day)" />
+    <string id="pao.option.army.call.on" text="Override military muster rules : ON" />
+    <string id="pao.option.army.call.off" text="Override military muster rules : OFF" />
+    <string id="pao.option.army.call.reply" text="When this option is enabled, you can call the player's companion party at any time in the army management screen." />
+    <string id="XRGi3bSd" text="More..." />
+    <string id="gX0L27IB" text="Never mind." />
+    <string id="yX4VtrOP" text="Focus on protecting our clan's villages." />
+    <string id="KkjBE78p" text="On second thought, also come to the aid of villages of allied clans." />
+    <string id="pmqWOoV0" text="Also help the more distant villages if they raise the alarm." />
+    <string id="uHzw3ULH" text="I changed my mind, do not travel too far to help other villages." />
+    <string id="F2vg9SGK" text="Visit often the surrounding settlements for your party's needs." />
+    <string id="16NEiony" text="Actually, don't visit the surrounding settlements more than usual." />
+    <string id="AZYIGzy8" text="That's it. You have your orders." />
+    <string id="O1M2H0C2" text="Never mind." />
+    <string id="S7IXOvya" text="Your party is to follow mine." />
+    <string id="9VkT0QtD" text="Do not chase enemies until I give the signal." />
+    <string id="KbwF9ipY" text="On second thought, engage our enemies at will." />
+    <string id="ShLWeZiY" text="Do not flee from dangerous enemies." />
+    <string id="jdgK44KM" text="Actually, avoid dangerous enemies as you would otherwise" />
+    <string id="99JeSjud" text="Stop taking prisoners, except for the leading nobility." />
+    <string id="xPRt2fdZ" text="I've reconsidered, feel free to take prisoners at will." />
+    <string id="IQKXYHAq" text="That's it. You have your orders." />
+    <string id="6LrwJL3W" text="Never mind." />
+    <string id="5ur2y5hP" text="I want you to roam the lands." />
+    <string id="hVxWVKX7" text="Don't bother protecting settlements of allied clans." />
+    <string id="welScFSY" text="I've reconsidered, protect settlements of allied clans as well" />
+    <string id="7E06qXBJ" text="Never leave our troops in garrisons of allied clans." />
+    <string id="wZOn0NEF" text="Actually, feel free to donate troops to the garrisons of allied clans." />
+    <string id="hn1giswY" text="Do not merge with armies unless I personally lead." />
+    <string id="ksQCaRwa" text="I will allow you to merge with armies after all." />
+    <string id="1EgmZn7s" text="Refrain from raiding any villages." />
+    <string id="cTY5EsLq" text="On second thought, I allow you to raid the villages of our enemies." />
+    <string id="MkcYMAy8" text="Do not besiege any towns or castles." />
+    <string id="1cnLX765" text="After reconsideration, you may grasp opportunities to conquer new lands." />
+    <string id="Ym9U0Qzi" text="Avoid enemies unless they are much weaker than you." />
+    <string id="UFKzmROA" text="Actually, do not avoid any enemies you may be able to defeat" />
+    <string id="RfBlwhmR" text="Only chase the most tempting enemy parties." />
+    <string id="ESFnnRKG" text="I've reconsidered, attack our enemies as usual." />
+    <string id="wlCqbKzm" text="Come find me whenever you can't think of anything else worth doing." />
+    <string id="HT5HEB5P" text="On secound thought, don't bother finding me on your own initiative." />
+    <string id="XyzVaqot" text="That's it. You know what to do." />
+    <string id="GHXpDIEK" text="Never mind." />
+    <string id="CX6JHsbB" text="We shall carry out your instructions!" />
+    <string id="9n1Uij0W" text="Let me see your goods and equipment." />
+    <string id="kJC7LLJm" text="All right." />
+    <string id="52AcmMM0" text="All right, I will change my gear after our conversation." />
+    <string id="dob2z0My" text="Let's exchange troops and prisoners." />
+    <string id="ps3U3ots" text="All right." />
+    <string id="pao.caravan.companion.talk.guest" text="Let's talk as guests of the caravan, not as masters." />
+    <string id="TAyfMDef" text="Let me see your goods and equipment." />
+    <string id="1baIw5Rl" text="All right." />
+    <string id="dQwm7RgG" text="All right, I will change my equipment after our conversation." />
+    <string id="iGMVomiK" text="Let's exchange troops and prisoners." />
+    <string id="4RvBh0oa" text="All right." />
+    <string id="KQwXgzec" text="I want you and your entire party to merge into mine." />
+    <string id="2zCnqIKP" text="Are you sure?" />
+    <string id="e4bQb6Sj" text="Yes, I'm sure." />
+    <string id="hzBp0Sdu" text="Never mind." />
+    <string id="L6eNTxsS" text="All your standing orders are hereby rescinded." />
+    <string id="6O44WwxR" text="All right." />
+    <string id="2zoK2gG3" text="I want your party in my army." />
+    <string id="zAZKsHor" text="Are you sure?" />
+    <string id="gj7auuZH" text="Yes, I'm sure." />
+    <string id="pURcjber" text="Never mind." />
+    <string id="OXdtDXFm" text="Spread the word, everyone's orders are hereby rescinded." />
+    <string id="JRfAvHER" text="Let's review your party's composition plan." />
+    <string id="GCLIA72h" text="All right." />
+    <string id="s7s9Ildy" text="Forget what I said earlier, recruit anyone you like." />
+    <string id="fkdrQGr6" text="Let's decide what troops you should recruit." />
+    <string id="pao.recruit.template.party.all.clear" text="Clear all party templates." />
+    <string id="pURcjber" text="Never mind." />
+    <string id="6IpN0iuL" text="All right, what troop trees will we look at?" />
+    <string id="6i4eGhT1" text="Are there any troops I should exclude or limit to a certain amount?" />
+    <string id="pao.recruit.template.party.order.reply3" text="I understand. Clear all party templates." />
+    <string id="bwKblPvf" text="Wait, let's go back." />
+    <string id="7xD1KsX5" text="Let's have a closer look." />
+    <string id="8qD1KsX5" text="Just don't recruit anyone whatsoever." />
+    <string id="uacVKFj6" text="All right, I won't recruit any other troops than those and will adhere to any limits you have set." />
+    <string id="pao.recruit.template_party.order_reply.affirm10" text="OK" />
+    <string id="uac43Fj6" text="All right, I'll make a copy of that composition plan immediately." />
+    <string id="6a8ajCJO" text="Selected Troop Trees" />
+    <string id="CpuzeJFb" text="Available Troop Trees" />
+    <string id="3AQlcqvU" text="Template" />
+    <string id="9lssoqlP" text="Allowed Troops" />
+    <string id="5R2m2nND" text="Add these to set Limits" />
+    <string id="DpjCas89" text="Any additional instructions to follow during the patrol?" />
+    <string id="gZ3JPgdJ" text="The villages of our allied clans will have to do without us.&#x0A;" />
+    <string id="xVmFj0Vt" text="We'll come to the aid of more distant villages as well.&#x0A;" />
+    <string id="FZsSqjwF" text="We shall frequently visit nearby settlements for troops and to trade loot, supplies and prisoners.&#x0A;" />
+    <string id="2EyKGT16" text="Any additional instructions to follow while escorting you?" />
+    <string id="hg0GrxBV" text="We won't flee from enemies stronger than us." />
+    <string id="BEdedw1C" text="We won't chase any enemies unless you give the signal." />
+    <string id="DL3kEH8n" text="We shall stay at your side until commanded otherwise." />
+    <string id="EBO8npRn" text="Any additional instructions to follow while roaming the lands?" />
+    <string id="n8KqPSs3" text="I won't help defending settlements of allied clans.&#x0A;" />
+    <string id="hg8h2ZRQ" text="I'll never give my troops to garrisons of allied clans.&#x0A;" />
+    <string id="GKLbkTYg" text="I won't join armies unless you call for me.&#x0A;" />
+    <string id="Et1Fdug7" text="I won't raid any villages.&#x0A;" />
+    <string id="xCAkZSk8" text="I'll ignore opportunities to conquer territory.&#x0A;" />
+    <string id="s3xzYOlT" text="We'll run from anyone who may cause us significant losses.&#x0A;" />
+    <string id="2wfMJTSO" text="We'll chase only the most tempting enemy parties.&#x0A;" />
+    <string id="66JVQdWZ" text="We'll come follow you if I can't think of much else to do." />
+    <string id="pao.roam.order.stopTakingPrisoners" text="We don't take prisoners except lords.&#x0A;" />
+    <string id="pao.patrol.order.stopTakingPrisoners" text="We don't take prisoners except lords." />
+    <string id="pao.option.army.rejoin.function" text="Army - Auto Rejoin : {PAO_OPTION_ARMY_REJOIN_ON_OFF}{PAOMARK}" />
+    <string id="pao.option.army.rejoin.function.reply" text="If this option is enabled, when an army is disbanded due to lack of influence or lack of parties, only the companion party that was participating will be automatically reconvened." />
+    <string id="pao.option.no.garrison.party" text="The party doesn't touch the garrison soldiers : {PAO_OPTION_NO_GARRISON_PARTY_ON_OFF}{PAOMARK}" />
+    <string id="pao.option.no.garrison.party.reply" text="Enabling this option will prevent the companion party from touching the garrison soldiers.(Don't donate or take anything)" />
+    <string id="pao.recruit.template_party.order_reply.recruit.prisoners.npc" text="Recruit troops from the prisoners?" />
+    <string id="pao.recruit.template_party.order_reply.recruit.prisoners.player.yes" text="Yes." />
+    <string id="pao.recruit.template_party.order_reply.recruit.prisoners.player.no" text="No." />
+    <string id="pao.recruit.template_party.order_reply.recruit.prisoners.npc.yes" text="All right, I will recruit from the prisoners." />
+    <string id="pao.recruit.template_party.order_reply.recruit.prisoners.npc.no" text="All right, I will not recruit from the prisoners." />
+    <string id="pao.recruit.from.prisoner" text="Let's decide how to recruit troops and prisoners." />
+    <string id="pao.player.recruit.separate1" text="Do you want to recruit troops?" />
+    <string id="pao.player.recruit.option1" text="Let's recruit the troops." />
+    <string id="pao.player.recruit.option2" text="Let's stop recruiting troops." />
+    <string id="pao.player.recruit.separate2" text="Do you want to take prisoners?" />
+    <string id="pao.player.recruit.option3" text="Take the prisoners as usual." />
+    <string id="pao.player.recruit.option4" text="Capture only the nobles." />
+    <string id="pao.player.recruit.option5" text="Try not to catch anyone." />
+    <string id="pao.player.recruit.separate3" text="Do you want to recruit troops from the prisoners?" />
+    <string id="pao.player.recruit.option6" text="Recruit troops from the prisoners." />
+    <string id="pao.player.recruit.option7" text="Don't recruit troops from the prisoners." />
+    <string id="pao.template.transfer.message" text="Transfer the recruits of the troop tree(s) you want to manage in the next step." />
+    <string id="pao.template.limit.message" text="Troops with 1 member only will be recruited without limitation.&#x0A;Add more from the right to set limits." />
+    <string id="pao.party.order.escort.condition5" text="&#x0A;We'll only take enemy leaders as prisoner." />
+    <string id="pao.party.order.recruit1" text="We're recruiting troops.&#x0A;" />
+    <string id="pao.party.order.recruit2" text="We do not recruit troops.&#x0A;" />
+    <string id="pao.party.order.recruit3" text="We will walk with the prisoners.&#x0A;" />
+    <string id="pao.party.order.recruit4" text="We only capture nobles.&#x0A;" />
+    <string id="pao.party.order.recruit5" text="We won't catch anyone.&#x0A;" />
+    <string id="pao.party.order.recruit6" text="We will recruit troops from the prisoners.&#x0A;" />
+    <string id="pao.party.order.recruit7" text="We do not recruit troops from the prisoners." />
+    <string id="pao.option.partywage.on" text="Override vanilla wage limits to recruit troops : ON" />
+    <string id="pao.option.partywage.off" text="Override vanilla wage limits to recruit troops : OFF" />
+    <string id="pao.option.partywage.reply" text="Even if you set the party wage to Unlimited Wage, the game still limits the party wage to 1999 dinars.&#x0A;If this option is enabled, you can recruit troops normally even if they are over 2000 dinars. This also applies to NPC lords." />
+    <string id="pao.option.capture.hero.plus.on" text="The player decides what to do with the lords : ON" />
+    <string id="pao.option.capture.hero.plus.off" text="The player decides what to do with the lords : OFF" />
+    <string id="pao.option.capture.hero.plus.reply" text="Enabling this option allows the player to decide what to do with the lords acquired by the companion party that fought alongside the player." />
+    <string id="pao.option.staytown" text="I would like you to stay in a certain town." />
+    <string id="pao.option.staytown.npc.reply2" text="Where should I go?" />
+    <string id="pao.option.staytown.npc.reply3" text="We go to {PAO_STAYTOWN} and stay there.{PAOMARK}" />
+    <string id="pao.option.staytown.player.yes" text="OK" />
+    <string id="pao.option.staytown.player.no" text="Change the town you stay in." />
+    <string id="pao.option.staytown.npc.take" text="{PAO_STAYTOWN} has been taken by the enemy and the stay order can no longer be carried out.{PAOMARK}" />
+    <string id="pao.option.staytown.player.take" text="That is unfortunate." />
+    <string id="pao.option.priority.increasing.on" text="Priority is given to increasing the number of people in the party : ON" />
+    <string id="pao.option.priority.increasing.off" text="Priority is given to increasing the number of people in the party : OFF" />
+    <string id="pao.option.priority.increasing.npc.reply" text="If this option is enabled, the companion party will give priority to increasing the number of people.&#x0A;Troops not specified in the recruitment template will also be hired.&#x0A;However, troops not designated will not be upgraded.&#x0A;Gradually the party will be organized as per the recruitment template." />
+    <string id="pao.option.debug.no.leader.hero.lord.on" text="DEBUG : Detection of the lords party with no leader hero : ON" />
+    <string id="pao.option.debug.no.leader.hero.lord.off" text="DEBUG : Detection of the lords party with no leader hero : OFF" />
+    <string id="pao.option.debug.no.leader.hero.lord.npc.reply" text="If this option is enabled, the mod will detect the appearance of a party of lords without a leader hero.&#x0A;Detection results are written to a harmony.log.txt file that is created on the desktop." />
+    <string id="pao.option.debug.party.info.code" text="DEBUG : Get the code for party information" />
+    <string id="pao.option.debug.party.info.code.reply" text="When this option is selected, a code containing information about the currently conversing companion party is retrieved and copied to the clipboard.&#x0A;&#x0A;This information is useful for debugging, so if you find a bug in the party's operation, please paste this code into the mod page and report it.&#x0A;&#x0A;The contents of the code can be viewed by typing 'pao.extract_party_info [code]' in the in-game console." />
+    <string id="pao.option.debug.party.info.code.clipboard" text="The party information code was successfully retrieved and copied to the clipboard." />
+    <string id="pao.template.use.same.plan" text="Use the same plan as " />
+    <string id="pao.option.revive.party.on" text="Recovered heroes automatically create a new party : ON" />
+    <string id="pao.option.revive.party.off" text="Recovered heroes automatically create a new party : OFF" />
+    <string id="pao.option.revive.party.npc.reply" text="If this option is enabled, heroes recovered from prisoners will automatically create a new party.&#x0A;Heroes who have been given orders by the player in advance are eligible." />
+    <string id="pao.order.letters" text="I need you to organize my letters." />
+    <string id="pao.order.letters.reply2" text="I have disposed of all but the five most recent letters." />
+    <string id="pao.notification.death.overview" text="{PAO_NOTIFICATION_DEATH_LEADERHERO_NAME} has died." />
+    <string id="pao.notification.death.title" text="Hero died" />
+    <string id="pao.notification.death.message" text="{PAO_NOTIFICATION_DEATH_LEADERHERO_NAME}, who was leading the party, died." />
+    <string id="pao.notification.death.button.talk.party" text="Talk to the party" />
+    <string id="pao.notification.death.button.change.leader" text="Change leader" />
+    <string id="pao.notification.death.toomany.title" text="Too many troops" />
+    <string id="pao.notification.death.toomany.message" text="[{PAO_NOTIFICATION_DEATH_TOOMANY_MESSAGE_LEADERHERO_NAME}]&#x0A;I have arrived in a new party. With my skills, I will have to dismiss {PAO_NOTIFICATION_DEATH_TOOMANY_MESSAGE_OVER} troops. The number of troops I can lead is {PAO_NOTIFICATION_DEATH_TOOMANY_MESSAGE_NEWPARTYSIZELIMIT}. What shall I do?&#x0A;&#x0A;Note: If the leader is not changed, the party size limit will be {PAO_NOTIFICATION_DEATH_TOOMANY_MESSAGE_NEWPARTYSIZELIMIT} the next day." />
+  </strings>
+</base>
