@@ -1,0 +1,28 @@
+<Tasks>
+    <GetItem>
+        <ItemId Value="3017331540"/>
+        <!-- Can be found in the URL of your workshop item -->
+    </GetItem>
+
+    <UpdateItem>
+        <ModuleFolder Value="D:\lib05\Mods\Bannerlord\upload\WSLHMod"/>
+        <!-- A direct path of your module -->
+        <ItemDescription Value="This Bannerlord mod adds a number of dialogue options to adjust relationships with characters found in the world."/>
+        <ChangeNotes Value="Version 0.2" />
+		<!-- A description that will be displayed on Steam Workshop, can be edited via the Steam UI -->
+        <Tags> 
+            <!-- You can use the following tags: -->
+            <!-- Type: Graphical Enhancement, Map Pack, Partial Conversion, Sound, Total Conversion, Troops, UI, Utility, Weapons and Armour -->
+            <!-- Setting: Native, Antiquity, Dark Ages, Medieval, Musket Era, Modern, Sci-Fi, Fantasy, Oriental, Apocalypse, Other -->
+            <!-- Game Mode: Singleplayer, Multiplayer -->
+            <!-- Compatible Version: e1.9.0, v1.0.0,... The currently available versions can be found at the Steam Workshop "Browse by Tag" section -->
+            <Tag Value="Singleplayer" />
+            <Tag Value="v1.1.5" />
+			<Tag Value="v1.2.0" />
+        </Tags>
+        <Image Value="D:\lib05\Mods\Bannerlord\WSLH.png"/>
+        <!-- Determines the featured image displayed on Steam Workshop, a direct path to it must be inserted here (the image should be smaller than 1 MB) -->
+        <Visibility Value="Public"/>
+        <!-- Determines visibility on Steam Workshop. Can be: Public, FriendsOnly, Private -->
+    </UpdateItem>
+</Tasks>

@@ -1,0 +1,6 @@
+F:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\ExampleMod\bin\Win64_Shipping_Client\ExampleMod\ExampleMod\bin\Release\ExampleMod.dll
+F:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\ExampleMod\bin\Win64_Shipping_Client\ExampleMod\ExampleMod\bin\Release\ExampleMod.pdb
+F:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\ExampleMod\bin\Win64_Shipping_Client\ExampleMod\ExampleMod\obj\Release\ExampleMod.csproj.AssemblyReference.cache
+F:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\ExampleMod\bin\Win64_Shipping_Client\ExampleMod\ExampleMod\obj\Release\ExampleMod.csproj.CoreCompileInputs.cache
+F:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\ExampleMod\bin\Win64_Shipping_Client\ExampleMod\ExampleMod\obj\Release\ExampleMod.dll
+F:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\ExampleMod\bin\Win64_Shipping_Client\ExampleMod\ExampleMod\obj\Release\ExampleMod.pdb

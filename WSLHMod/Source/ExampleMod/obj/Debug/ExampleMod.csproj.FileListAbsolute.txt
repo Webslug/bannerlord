@@ -1,0 +1,18 @@
+F:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\ExampleMod\bin\Win64_Shipping_Client\ExampleMod\ExampleMod\obj\Debug\ExampleMod.csproj.AssemblyReference.cache
+F:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\ExampleMod\bin\Win64_Shipping_Client\ExampleMod\ExampleMod\obj\Debug\ExampleMod.csproj.CoreCompileInputs.cache
+F:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\ExampleMod\bin\Win64_Shipping_Client\ExampleMod\ExampleMod\obj\Debug\ExampleMod.dll
+F:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\ExampleMod\bin\Win64_Shipping_Client\ExampleMod\ExampleMod\obj\Debug\ExampleMod.pdb
+F:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\ExampleMod\bin\Win64_Shipping_Client\ExampleMod.pdb
+F:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\ExampleMod\bin\Win64_Shipping_Client\ExampleMod.dll
+F:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\BribeMod\bin\Win64_Shipping_Client\ExampleMod\ExampleMod\obj\Debug\ExampleMod.csproj.AssemblyReference.cache
+F:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\BribeMod\bin\Win64_Shipping_Client\ExampleMod\ExampleMod\obj\Debug\ExampleMod.csproj.CoreCompileInputs.cache
+F:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\BribeMod\bin\Win64_Shipping_Client\ExampleMod\ExampleMod\obj\Debug\BribeMod.dll
+F:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\BribeMod\bin\Win64_Shipping_Client\ExampleMod\ExampleMod\obj\Debug\BribeMod.pdb
+F:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\BribeMod\bin\Win64_Shipping_Client\BribeMod.dll
+F:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\BribeMod\bin\Win64_Shipping_Client\BribeMod.pdb
+F:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\WSLHMod\bin\Win64_Shipping_Client\WSLHMod.dll
+F:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\WSLHMod\bin\Win64_Shipping_Client\WSLHMod.pdb
+D:\lib05\Mods\Bannerlord\WSLHMod\ExampleMod\obj\Debug\ExampleMod.csproj.AssemblyReference.cache
+D:\lib05\Mods\Bannerlord\WSLHMod\ExampleMod\obj\Debug\ExampleMod.csproj.CoreCompileInputs.cache
+D:\lib05\Mods\Bannerlord\WSLHMod\ExampleMod\obj\Debug\WSLHMod.dll
+D:\lib05\Mods\Bannerlord\WSLHMod\ExampleMod\obj\Debug\WSLHMod.pdb
